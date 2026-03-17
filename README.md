@@ -32,3 +32,51 @@ It enables transforming physical objects into **manufacturable data**.
 ---
 
 ## Core Principle
+
+---
+
+## Key Innovation
+
+### Manufacturing DNA (MDNA)
+
+This system encodes:
+
+- materials  
+- process chain  
+- tolerances  
+- surface properties  
+- thermal treatment  
+- assembly constraints  
+
+---
+
+## What is disclosed
+
+This repository fixes:
+
+- End-to-end reconstruction pipeline  
+- AI-driven parametric modeling  
+- Manufacturing DNA layer  
+- Distributed fabrication architecture  
+- Closed-loop validation system  
+- Patent-style claims  
+
+---
+
+## Important Note
+
+This is **not a product**.
+
+This is a **system architecture disclosure of a future industrial paradigm**.
+
+---
+
+## License
+
+Creative Commons Attribution 4.0 (CC BY 4.0)
+
+---
+
+## Author
+
+Vadym Tsinderhoz
